@@ -1,4 +1,5 @@
-### Hi there 👋
+### Software Engineer @ [Paylocity](https://www.paylocity.com)
+### CTO @ [Round2](https://round2.io)
 
 <!--
 **mkwarman/mkwarman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
