@@ -1,7 +1,7 @@
 ### Software Engineer @ [Paylocity](https://www.paylocity.com)
 ### Chief Technology Officer @ [Round2](https://round2.io)
 ------------------------------------------------
-#### LinkedIn https://linkedin.com/in/mkwarman
+#### LinkedIn: [mkwarman](https://linkedin.com/in/mkwarman)
 #### Email: [mkwarman@gmail.com](mailto:mkwarman@gmail.com)
 
 <!--
