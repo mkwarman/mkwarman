@@ -1,8 +1,7 @@
 ### Software Engineer @ [Paylocity](https://www.paylocity.com)
-### Chief Technology Officer @ [Round2](https://round2.io)
 ------------------------------------------------
 #### LinkedIn: [mkwarman](https://linkedin.com/in/mkwarman)
-#### Email: [mkwarman@gmail.com](mailto:mkwarman@gmail.com)
+#### Email: [mkwarman@gmail.com](mailto:mkwarman+githubcontact@gmail.com)
 
 <!--
 **mkwarman/mkwarman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
