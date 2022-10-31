@@ -1,4 +1,4 @@
-### Software Engineer @ [Paylocity](https://www.paylocity.com)
+### Senior Software Engineer @ [Paylocity](https://www.paylocity.com)
 ------------------------------------------------
 #### LinkedIn: [mkwarman](https://linkedin.com/in/mkwarman)
 #### Email: [mkwarman@gmail.com](mailto:mkwarman+githubcontact@gmail.com)
