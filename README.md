@@ -1,4 +1,4 @@
-### Senior Software Engineer @ [Zeal](https://www.zeal.com)
+### Senior Software Engineer @ [Wilqo](https://www.wilqo.com)
 ------------------------------------------------
 #### LinkedIn: [mkwarman](https://linkedin.com/in/mkwarman)
 #### Email: [mkwarman@gmail.com](mailto:mkwarman+githubcontact@gmail.com)
